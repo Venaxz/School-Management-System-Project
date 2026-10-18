@@ -1,6 +1,6 @@
 # School Management System
 
-A Java-based application designed to demonstrate how software can be used to organize and manage essential school administration activities.
+A Java-based application designed to demonstrate how software can be used to organize and manage essential school administration activities. 
 
 ## 📌 About the Project
 
