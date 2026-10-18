@@ -3,7 +3,7 @@
 A Java-based application designed to demonstrate how software can be used to organize and manage essential school administration activities. 
 
 ## 📌 About the Project
-
+ 
 The School Management System is a software development project focused on simplifying school administration through a structured, organized, and maintainable application.
 
 The project explores how Java programming can be applied to school management, with an emphasis on organizing information, implementing system functionality, and building a foundation that can be extended with additional features.
